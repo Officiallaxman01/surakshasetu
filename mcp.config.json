@@ -1,0 +1,18 @@
+{
+  "mcpServers": {
+    "reactbits": {
+      "url": "https://reactbits.dev/mcp",
+      "components": [
+        "Button",
+        "Input",
+        "Card",
+        "Form",
+        "Modal",
+        "Alert"
+      ],
+      "enabled": true
+    }
+  },
+  "version": "1.0.0"
+}
+
